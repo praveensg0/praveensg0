@@ -1,14 +1,25 @@
 ## Greetings!
 
-I'm Praveen, an enthusiastic learner in the field of electronics, technology and bit of web development.
+# Hi there 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+I'm Praveen S G, an Embedded Networking Engineer passionate about networking infrastructure, Linux systems, embedded development, and low-level software engineering.
 
-🎓 **Education**: Final year student in Electrical and Electronics Engineering.<br>
-🔌 **Electronics Enthusiast**: Fascinated by the intricacies of electronic circuits and innovations.<br>
-📱 **IoT Development**: Worked on IoT devices and developed using Arduino, STM32, ESP32 and Raspberry Pi.<br>
-💻 **Focused**: Interested in RTL design, SoC and ASIC verification.<br>
-🚀 **Web Development**: Exploring the world of web development and technology.
+## About Me
+
+* 🎓 Bachelor of Engineering in Electrical and Electronics Engineering
+* 🌐 Interested in Networking, Infrastructure, and Systems Engineering
+* ⚙️ Working on embedded systems using ESP32, STM32, Arduino, and Raspberry Pi
+* 💻 Experienced with Linux, debugging tools, automation, and scripting
+* 📡 Interested in 4G/5G networking, packet processing, and telecom systems
+* 🔌 Exploring RTL Design, RISC-V, SoC, and ASIC Verification
+
+## Featured Projects
+
+* OSPF Routing Simulator
+* ESP32 BLE Provisioning
+* RISC-V Pipeline Design
+* Embedded Monitoring Tools
+* IoT Automation Systems
 
 <h3 align="left">Languages and Tools:</h3> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
